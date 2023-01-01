@@ -12,10 +12,10 @@ A final-year computer science student from Sriwijaya University, Indonesia</b>.
   <thead>
     <tr>
       <th width="500px">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiarizkyhairunnisa&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=moltack" />    
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiarizkyhairunnisa&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=calm" />    
       </th>
       <th width="500px">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiarizkyhairunnisa&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=moltack" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiarizkyhairunnisa&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=calm" />
       </th>
     </tr>
     <tr>
