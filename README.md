@@ -27,7 +27,7 @@ A final-year computer science student from Sriwijaya University, Indonesia</b>.
 </table>
  
 
-[![Assyatier's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nadiarizkyhairunnisa&bg_color=F5E1C0&color=584139&line=860A2D&point=584139&area=true&hide_border=true)](https://github.com/nadiarizkyhairunnisa)
+[![Assyatier's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nadiarizkyhairunnisa&bg_color=373F51&color=DF7A5F&line=EACEB2&point=D8A14A&area=true&hide_border=true)](https://github.com/nadiarizkyhairunnisa)
  
 <!-- Updated on January 1st 2022 --!>
  
