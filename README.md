@@ -1,55 +1,33 @@
 ### Hi there 👋
 
-### Hello! I’m Nadia Rizky Hairunnisa 🪐
+### Hello! I’m Nadia 🪐
 
-A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Jakarta, Indonesia</b>. 
-- 📫 Wanna know more about My experience? Reach me on  <a href="https://www.linkedin.com/in/muhammad-sholeh11/" target="_blank">LinkedIn</a>
-- 🖥️ Passionate to learn about Website Development especially Backend
+A final-year computer science student from Sriwijaya University, Indonesia</b>. 
+- 📫 Wanna know more about my experience? Reach me on  <a href="https://www.linkedin.com/in/nadiarizkyhairunnisa/" target="_blank">LinkedIn</a>
+- 🖥️ Passionate to learn about Machine Learning and Data Analytics
 
-<h3>👨‍💻 Tech Stack & Tools</h3>
-- Experienced in : 
-  <p></p>
-  <p>
-    <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%23ED8B00.svg?style=flat&logo=sqlite&logoColor=white)"/>
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23777BB4.svg?style=flat&logo=mysql&logoColor=white"/>
-  </p>
-  <p>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
-    <img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
-  </p>
-- Currently learning : 
-  <p></p>
-  <p>
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)"/>
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-    <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flate&logo=jenkins&logoColor=white"/>
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
-    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"/>
-    <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/>
-  </p>
-  
+
 <h3>💡 My Github Stats</h3>
 <table>
   <thead>
     <tr>
       <th width="500px">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Assyatier21&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=github_dark" />    
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiarizkyhairunnisa&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=moltack" />    
       </th>
       <th width="500px">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assyatier21&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=github_dark" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiarizkyhairunnisa&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=moltack" />
       </th>
     </tr>
     <tr>
        <th colspan="2">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Assyatier21&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nadiarizkyhairunnisa&theme=deuteranopia-friendly-theme&background=F5E1C0&stroke=860A2D&ring=860A2D&border=860A2D&fire=860A2D&currStreakLabel=584139&currStreakNum=860A2D&sideNums=860A2D&sideLabels=584139&dates=584139" />
        </th>
     </tr>
   </thead>
 </table>
  
 
-[![Assyatier's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Assyatier21&theme=react-dark)](https://github.com/Assyatier21)
+[![Assyatier's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nadiarizkyhairunnisa&theme=react-dark)](https://github.com/nadiarizkyhairunnisa)
  
 <!-- Updated on January 1st 2022 --!>
  
