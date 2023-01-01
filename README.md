@@ -20,7 +20,7 @@ A final-year computer science student from Sriwijaya University, Indonesia</b>.
     </tr>
     <tr>
        <th colspan="2">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nadiarizkyhairunnisa&theme=deuteranopia-friendly-theme&background=F5E1C0&stroke=860A2D&ring=860A2D&border=860A2D&fire=860A2D&currStreakLabel=584139&currStreakNum=860A2D&sideNums=860A2D&sideLabels=584139&dates=584139" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nadiarizkyhairunnisa&theme=deuteranopia-friendly-theme&background=F5E1C0&stroke=860A2D&ring=860A2D&fire=860A2D&currStreakLabel=584139&currStreakNum=860A2D&sideNums=860A2D&sideLabels=584139&dates=584139" />
        </th>
     </tr>
   </thead>
