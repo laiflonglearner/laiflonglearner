@@ -5,7 +5,7 @@ A final-year computer science student from Sriwijaya University, Indonesia</b>.
 - 🖥️ Passionate to learn about Machine Learning and Data Analytics
 
 
-<h3>💡🕊 My Github Stats</h3>
+<h3>🕊 Github Stats</h3>
 <table>
   <thead>
     <tr>
@@ -24,9 +24,11 @@ A final-year computer science student from Sriwijaya University, Indonesia</b>.
   </thead>
 </table>
  
+<details> 
+  <summary> <h3> 💫 GitHub Contribution Graph </h3> </summary>
+  <img align = "center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nadiarizkyhairunnisa&bg_color=373F51&color=DF7A5F&line=EACEB2&point=D8A14A&border=EAEAEA)](https://github.com/nadiarizkyhairunnisa)"/>
+</details>
 
-[![nadiarizkyhairunnisa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nadiarizkyhairunnisa&bg_color=373F51&color=DF7A5F&line=EACEB2&point=D8A14A&border=EAEAEA)](https://github.com/nadiarizkyhairunnisa)
- 
 <!-- Updated on January 1st 2022 --!>
  
 
