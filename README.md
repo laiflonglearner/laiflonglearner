@@ -10,10 +10,10 @@ A final-year computer science student from Sriwijaya University, Indonesia</b>.
   <thead>
     <tr>
       <th width="500px">
-            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nadiarizkyhairunnisa&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=calm" />    
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nadiarizkyhairunnisa&show_icons=true&count_private=true&theme=calm" />    
       </th>
       <th width="500px">
-          <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=nadiarizkyhairunnisa&langs_count=6&layout=compact&count_private=true&theme=calm" />
+          <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=nadiarizkyhairunnisa&langs_count=10&layout=compact&count_private=true&theme=calm" />
       </th>
     </tr>
     <tr>
