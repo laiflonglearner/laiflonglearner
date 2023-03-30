@@ -28,7 +28,7 @@ A final-year computer science student from Sriwijaya University, Indonesia</b>.
   <img align = "center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nadiarizkyhairunnisa&bg_color=373F51&color=DF7A5F&line=EACEB2&point=D8A14A&border=EAEAEA)](https://github.com/nadiarizkyhairunnisa)"/>
 </details>
 
-<!-- Updated on January 1st 2022 --!>
+<!-- Updated on March 31 2022 --!>
  
 
 
