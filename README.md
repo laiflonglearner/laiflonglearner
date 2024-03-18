@@ -1,8 +1,8 @@
 ### Hello! I’m Nadia 🪐
 
-A final-year computer science student from Sriwijaya University, Indonesia</b>. 
+<!--A final-year computer science student from Sriwijaya University, Indonesia</b>. 
 - 📫 Wanna know more about my experience? Reach me on  <a href="https://www.linkedin.com/in/nadiarizkyhairunnisa/" target="_blank">LinkedIn</a>
-- 🖥️ Passionate to learn about Machine Learning and Data Analytics
+- 🖥️ Passionate to learn about Machine Learning and Data Analytics -->
 
 
 <h3>🕊 Github Stats</h3>
@@ -10,15 +10,16 @@ A final-year computer science student from Sriwijaya University, Indonesia</b>.
   <thead>
     <tr>
       <th width="500px">
-            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nadiarizkyhairunnisa&show_icons=true&count_private=true&theme=calm" />    
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laiflonglearner&show_icons=true&count_private=true&theme=gruvbox" />    
       </th>
       <th width="500px">
-          <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=nadiarizkyhairunnisa&langs_count=10&layout=compact&count_private=true&theme=calm" />
+          <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=laiflonglearner&langs_count=10&layout=compact&count_private=true&theme=gruvbox" />
       </th>
     </tr>
     <tr>
        <th colspan="2">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nadiarizkyhairunnisa&theme=deuteranopia-friendly-theme&background=373F51&stroke=D8A14A&ring=DF7A5F&fire=DF7A5F&currStreakLabel=EACEB2&currStreakNum=D8A14A&sideNums=D8A14A&sideLabels=EACEB2&dates=EACEB2&border=EAEAEA" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=laiflonglearner&theme=gruvbox" />
+<!--          &background=373F51&stroke=D8A14A&ring=DF7A5F&fire=DF7A5F&currStreakLabel=EACEB2&currStreakNum=D8A14A&sideNums=D8A14A&sideLabels=EACEB2&dates=EACEB2&border=EAEAEA -->
        </th>
     </tr>
   </thead>
