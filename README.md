@@ -24,13 +24,13 @@
     </tr>
   </thead>
 </table>
-<details> 
+<!-- <details> 
   <summary> <h3> 💫 GitHub Contribution Graph </h3> </summary>
-  <img align = "center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nadiarizkyhairunnisa&bg_color=373F51&color=DF7A5F&line=EACEB2&point=D8A14A&border=EAEAEA)](https://github.com/nadiarizkyhairunnisa)"/>
-</details>
+  <img align = "center" src="https://github-readme-activity-graph.cyclic.app/graph?username=laiflonglearner&bg_color=373F51&color=DF7A5F&line=EACEB2&point=D8A14A&border=EAEAEA)](https://github.com/laiflonglearner)"/>
+</details> -->
 
 <!-- Updated on March 31 2022 --!>
- 
+<!-- 2nd udpate on March 18 2022 --!>
 
 
 <!--
