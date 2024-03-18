@@ -10,7 +10,7 @@
   <thead>
     <tr>
       <th width="500px">
-            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laiflonglearner&show_icons=true&count_private=true&theme=gruvbox" />    
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laiflonglearner&show_icons=true&count_private=true&theme=gruvbox&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />    
       </th>
       <th width="500px">
           <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=laiflonglearner&langs_count=15&layout=compact&count_private=true&theme=gruvbox" />
