@@ -1,6 +1,7 @@
-### Hello! I’m Nadia 🪐
-
-<h3>🕊 Github Stats</h3>
+<p align = center>
+ <img src="assets/ghibli-scenery.gif" width="350")>
+</p>
+<!-- <h3>🕊 Github Stats</h3> -->
 <table>
   <thead>
     <tr>
@@ -14,12 +15,9 @@
     <tr>
        <th colspan="2">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=laiflonglearner&theme=gruvbox" />
-<!--          &background=373F51&stroke=D8A14A&ring=DF7A5F&fire=DF7A5F&currStreakLabel=EACEB2&currStreakNum=D8A14A&sideNums=D8A14A&sideLabels=EACEB2&dates=EACEB2&border=EAEAEA -->
        </th>
     </tr>
   </thead>
 </table>
 
-<!-- Updated on March 31 2022 --!>
-<!-- 2nd udpate on March 18 2022 --!>
 
