@@ -39,6 +39,5 @@ CSS        ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 [![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=ffffff)](https://www.sqlite.org/)
 [![Sentry](https://img.shields.io/badge/-Sentry-362d59?style=for-the-badge&logo=sentry&logoColor=ffffff)](https://sentry.io/)
 [![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=ffffff)](https://expo.dev/)
-</div>
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)](https://nextjs.org/)
 </div>
