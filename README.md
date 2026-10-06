@@ -1,15 +1,15 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 coding beneath the stars after dark
+### 🦔 working through the backlog in the evening quiet
 
 </div>
 
 ```text
-TypeScript █████████████████████      83.6%     994 commits 04-12 ████                   19.3% ⁦🥝 الصباح⁩
-PLpgSQL    ██                          7.3%    1454 commits 12-17 ██████                 28.3% ⁦🍊 النهار⁩
-JavaScript ██                          6.7%    1534 commits 17-21 ██████                 29.8% ⁦🍓 المساء⁩
-CSS                                    1.0%    1163 commits 21-04 █████                  22.6% ⁦🫐 الليل⁩
+TypeScript █████████████████████      83.6%     994 commits ████                   19.3% 4am-12pm ⁦🥝 الصباح⁩
+PLpgSQL    ██                          7.3%    1454 commits ██████                 28.3% 12pm-5pm ⁦🍊 النهار⁩
+JavaScript ██                          6.7%    1534 commits ██████                 29.8% 5pm-9pm ⁦🍓 المساء⁩
+CSS                                    1.0%    1164 commits █████                  22.6% 9pm-4am ⁦🫐 الليل⁩
 ```
 <!-- productive-box:end -->
 
