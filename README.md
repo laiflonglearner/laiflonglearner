@@ -1,17 +1,19 @@
-<!-- <img align="center" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=laiflonglearner&theme=ocean&stats=true" width="800" /> -->
-
-<div align="center">
-
 <!-- productive-box:start -->
 ### 🦔 cozily crafting in the brambles
 
 ```text
-  994 commits  4-12  ████░░░░░░░░░░░░░░░░░  19.4% ⁦🥝 الصباح⁩    TypeScript   ████████████░░  83.6%
- 1454 commits  12-17 ██████░░░░░░░░░░░░░░░  28.4% ⁦🍊 النهار⁩    PLpgSQL      █░░░░░░░░░░░░░   7.3%
- 1534 commits  17-21 ██████░░░░░░░░░░░░░░░  29.9% ⁦🍓 المساء⁩    JavaScript   █░░░░░░░░░░░░░   6.7%
- 1142 commits  21-4  █████░░░░░░░░░░░░░░░░  22.3% ⁦🫐 الليل⁩    CSS          ░░░░░░░░░░░░░░   1.0%
+ 994 commits  04-12  ████░░░░░░░░  19.4%  🥝 الصباح    TypeScript  ██████████░░  83.6%
+1454 commits  12-17  ██████░░░░░░  28.4%  🍊 النهار    PLpgSQL     █░░░░░░░░░░░   7.3%
+1534 commits  17-21  ██████░░░░░░  29.9%  🍓 المساء    JavaScript  █░░░░░░░░░░░   6.7%
+1142 commits  21-04  █████░░░░░░░  22.3%  🫐 الليل     CSS         ░░░░░░░░░░░░   1.0%
 ```
 <!-- productive-box:end -->
+
+<div align="center">
+
+<!-- the rest of your centered README -->
+
+</div>
   
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:laiflonglearner?name=%3Alaiflonglearner&theme=booru-vp&padding=4&offset=20&align=center&scale=1&pixelated=0&darkmode=0" width="250"></a>
 
