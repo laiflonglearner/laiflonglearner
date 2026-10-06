@@ -1,7 +1,7 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 building something new well past midnight
+### 🦔 getting things done in the moonlit grove
 
 </div>
 
@@ -21,12 +21,12 @@ TypeScript&nbsp;✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧&nbsp;&nbsp;83.7%<b
 <tr>
 <td valign="top">
 <code>
-Lifelong&nbsp;Habit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧&nbsp;&nbsp;54.9%&nbsp;2863&nbsp;commits<br>laiflonglearner.com&nbsp;✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;5.6%&nbsp;&nbsp;294&nbsp;commits<br>productive-box&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;0.9%&nbsp;&nbsp;&nbsp;46&nbsp;commits<br>sleeby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;0.3%&nbsp;&nbsp;&nbsp;18&nbsp;commits<br>Other&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;38.2%&nbsp;1995&nbsp;commits
+Lifelong&nbsp;Habit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧&nbsp;&nbsp;54.9%&nbsp;2863&nbsp;commits<br>laiflonglearner.com&nbsp;✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;5.6%&nbsp;&nbsp;294&nbsp;commits<br>productive-box&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;0.9%&nbsp;&nbsp;&nbsp;47&nbsp;commits<br>sleeby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;0.3%&nbsp;&nbsp;&nbsp;18&nbsp;commits<br>Other&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;38.3%&nbsp;1996&nbsp;commits
 </code>
 </td>
 <td valign="top">
 <code>
-May&nbsp;'26&nbsp;✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧&nbsp;&nbsp;582&nbsp;commits<br>Jun&nbsp;'26&nbsp;✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧&nbsp;&nbsp;567&nbsp;commits<br>Jul&nbsp;'26&nbsp;✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;320&nbsp;commits<br>Aug&nbsp;'26&nbsp;✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;285&nbsp;commits<br>Sep&nbsp;'26&nbsp;✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦&nbsp;1225&nbsp;commits<br>Oct&nbsp;'26&nbsp;✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;489&nbsp;commits
+May&nbsp;'26&nbsp;✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧&nbsp;&nbsp;582&nbsp;commits<br>Jun&nbsp;'26&nbsp;✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧&nbsp;&nbsp;567&nbsp;commits<br>Jul&nbsp;'26&nbsp;✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;320&nbsp;commits<br>Aug&nbsp;'26&nbsp;✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;285&nbsp;commits<br>Sep&nbsp;'26&nbsp;✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦&nbsp;1225&nbsp;commits<br>Oct&nbsp;'26&nbsp;✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;491&nbsp;commits
 </code>
 </td>
 </tr>
