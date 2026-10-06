@@ -1,39 +1,50 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 quietly building beneath the midnight sky
+### 🦔 getting things done in the moonlit grove
 
 </div>
 
-```text
+<table>
+<tr>
+<td valign="top">
+<pre>
 TypeScript ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  83.7%
 PLpgSQL    ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.3%
 JavaScript ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.7%
 CSS        ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.0%
-```
-
-```text
-1253 commits ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  24.1% 4am-1pm ⁦🥝 الصباح⁩
-1215 commits ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  23.4% 1pm-5pm ⁦🍊 النهار⁩
-1540 commits ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  29.6% 5pm-9pm ⁦🍓 المساء⁩
-1189 commits ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  22.9% 9pm-4am ⁦🫐 الليل⁩
-```
-
-```text
+</pre>
+</td>
+<td valign="top">
+<pre>
+4am-1pm ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  24.1% ⁦🥝 الصباح⁩
+1pm-5pm ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  23.4% ⁦🍊 النهار⁩
+5pm-9pm ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  29.6% ⁦🍓 المساء⁩
+9pm-4am ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  22.9% ⁦🫐 الليل⁩
+</pre>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<pre>
 Lifelong Habit      ✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  54.8% 2850 commits
 laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.7%  294 commits
-productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.8%   43 commits
-Other               ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  38.7% 2010 commits
-```
-
-```text
+productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.8%   44 commits
+Other               ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  38.7% 2011 commits
+</pre>
+</td>
+<td valign="top">
+<pre>
 May ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  582 commits
 Jun ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  567 commits
 Jul ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  320 commits
 Aug ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  285 commits
 Sep ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 1225 commits
-Oct ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  470 commits
-```
+Oct ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  472 commits
+</pre>
+</td>
+</tr>
+</table>
 <!-- productive-box:end -->
 
 <div align="center">
