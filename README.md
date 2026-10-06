@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:laiflonglearner?name=%3Alaiflonglearner&theme=booru-vp&padding=4&offset=20&align=center&scale=1&pixelated=0&darkmode=0" width="250" alt="Profile view counter"></a>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:laiflonglearner?name=%3Alaiflonglearner&theme=booru-vp&padding=4&offset=20&align=center&scale=1&pixelated=0&darkmode=0" width="250"></a>
 
 [![Jest](https://img.shields.io/badge/-Jest-c21325?style=for-the-badge&logo=jest&logoColor=ffffff)](https://jestjs.io/)
 [![npm](https://img.shields.io/badge/-npm-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
