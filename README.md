@@ -1,6 +1,14 @@
 <!-- <img align="center" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=laiflonglearner&theme=ocean&stats=true" width="800" /> -->
 
 <div align="center">
+
+<!-- productive-box:start -->
+### calculating commit activity...
+
+```text
+commit stats will appear here
+```
+<!-- productive-box:end -->
   
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:laiflonglearner?name=%3Alaiflonglearner&theme=booru-vp&padding=4&offset=20&align=center&scale=1&pixelated=0&darkmode=0" width="250"></a>
 
