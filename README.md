@@ -1,15 +1,38 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 working through the backlog in the evening quiet
+### 🦔 quietly building beneath the midnight sky
 
 </div>
 
 ```text
-TypeScript ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  83.6%         994 commits ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  19.3%  4am-12pm ⁦🥝 الصباح⁩
-PLpgSQL    ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.3%        1454 commits ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  28.2% 12pm- 5pm ⁦🍊 النهار⁩
-JavaScript ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.7%        1534 commits ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  29.8%  5pm- 9pm ⁦🍓 المساء⁩
-CSS        ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.0%        1171 commits ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  22.7%  9pm- 4am ⁦🫐 الليل⁩
+TypeScript ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  83.7%
+PLpgSQL    ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.3%
+JavaScript ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.7%
+CSS        ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.0%
+```
+
+```text
+1253 commits ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  24.1% 4am-1pm ⁦🥝 الصباح⁩
+1215 commits ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  23.4% 1pm-5pm ⁦🍊 النهار⁩
+1540 commits ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  29.6% 5pm-9pm ⁦🍓 المساء⁩
+1189 commits ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  22.9% 9pm-4am ⁦🫐 الليل⁩
+```
+
+```text
+Lifelong Habit      ✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  54.8% 2850 commits
+laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.7%  294 commits
+productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.8%   43 commits
+Other               ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  38.7% 2010 commits
+```
+
+```text
+May ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  582 commits
+Jun ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  567 commits
+Jul ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  320 commits
+Aug ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  285 commits
+Sep ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 1225 commits
+Oct ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  470 commits
 ```
 <!-- productive-box:end -->
 
