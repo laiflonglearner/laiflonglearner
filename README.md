@@ -3,10 +3,13 @@
 <div align="center">
 
 <!-- productive-box:start -->
-### calculating commit activity...
+### 🦔 joyfully committing in the grove
 
 ```text
-commit stats will appear here
+  994 commits  4-12  ████░░░░░░░░░░░░░░░░░  19.4% ⁦🥝 الصباح⁩
+ 1454 commits  12-17 ██████░░░░░░░░░░░░░░░  28.4% ⁦🍊 النهار⁩
+ 1529 commits  17-21 ██████░░░░░░░░░░░░░░░  29.9% ⁦🍓 المساء⁩
+ 1141 commits  21-4  █████░░░░░░░░░░░░░░░░  22.3% ⁦🫐 الليل⁩
 ```
 <!-- productive-box:end -->
   
