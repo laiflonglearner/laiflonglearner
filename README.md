@@ -1,7 +1,7 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 quietly deploying before the moon sets
+### 🦔 building something new well past midnight
 
 </div>
 
@@ -9,24 +9,24 @@
 <tr>
 <td valign="top">
 <code>
-TypeScript ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  83.7%<br>PLpgSQL    ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.3%<br>JavaScript ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.7%<br>CSS        ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.0%
+TypeScript&nbsp;✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧&nbsp;&nbsp;83.7%<br>PLpgSQL&nbsp;&nbsp;&nbsp;&nbsp;✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;7.3%<br>JavaScript&nbsp;✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;6.7%<br>CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;1.0%
 </code>
 </td>
 <td valign="top">
 <code>
-4am-1pm ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  24.0% ⁦🥝 الصباح⁩<br>1pm-5pm ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  23.3% ⁦🍊 النهار⁩<br>5pm-9pm ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  29.6% ⁦🍓 المساء⁩<br>9pm-4am ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  23.1% ⁦🫐 الليل⁩
+4am-1pm&nbsp;✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;24.0%&nbsp;⁦🥝&nbsp;الصباح⁩<br>1pm-5pm&nbsp;✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;23.3%&nbsp;⁦🍊&nbsp;النهار⁩<br>5pm-9pm&nbsp;✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;29.6%&nbsp;⁦🍓&nbsp;المساء⁩<br>9pm-4am&nbsp;✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;23.1%&nbsp;⁦🫐&nbsp;الليل⁩
 </code>
 </td>
 </tr>
 <tr>
 <td valign="top">
 <code>
-Lifelong Habit      ✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  54.9% 2863 commits<br>laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%  294 commits<br>productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.9%   45 commits<br>Other               ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  38.6% 2012 commits
+Lifelong&nbsp;Habit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧&nbsp;&nbsp;54.9%&nbsp;2863&nbsp;commits<br>laiflonglearner.com&nbsp;✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;5.6%&nbsp;&nbsp;294&nbsp;commits<br>productive-box&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;0.9%&nbsp;&nbsp;&nbsp;46&nbsp;commits<br>sleeby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;&nbsp;0.3%&nbsp;&nbsp;&nbsp;18&nbsp;commits<br>Other&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;38.2%&nbsp;1995&nbsp;commits
 </code>
 </td>
 <td valign="top">
 <code>
-May ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  582 commits<br>Jun ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  567 commits<br>Jul ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  320 commits<br>Aug ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  285 commits<br>Sep ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 1225 commits<br>Oct ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  487 commits
+May&nbsp;'26&nbsp;✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧&nbsp;&nbsp;582&nbsp;commits<br>Jun&nbsp;'26&nbsp;✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧&nbsp;&nbsp;567&nbsp;commits<br>Jul&nbsp;'26&nbsp;✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;320&nbsp;commits<br>Aug&nbsp;'26&nbsp;✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;285&nbsp;commits<br>Sep&nbsp;'26&nbsp;✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦&nbsp;1225&nbsp;commits<br>Oct&nbsp;'26&nbsp;✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧&nbsp;&nbsp;489&nbsp;commits
 </code>
 </td>
 </tr>
