@@ -23,7 +23,6 @@
 [![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)](https://react.dev/)
 [![React Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)](https://reactnative.dev/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=ffffff)](https://github.com/features/actions)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Zod](https://img.shields.io/badge/-Zod-3068b7?style=for-the-badge&logo=zod&logoColor=ffffff)](https://zod.dev/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
