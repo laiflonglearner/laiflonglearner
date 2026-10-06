@@ -15,8 +15,6 @@ CSS                                    1.0%    1164 commits █████     
 
 <div align="center">
   
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:laiflonglearner?name=%3Alaiflonglearner&theme=booru-vp&padding=4&offset=20&align=center&scale=1&pixelated=0&darkmode=0" width="250"></a>
-
 [![Turborepo](https://img.shields.io/badge/-Turborepo-ef4444?style=for-the-badge&logo=turborepo&logoColor=ffffff)](https://turborepo.dev/)
 [![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=ffffff)](https://tanstack.com/query)
 [![PostHog](https://img.shields.io/badge/-PostHog-f54e00?style=for-the-badge&logo=posthog&logoColor=ffffff)](https://posthog.com/)
@@ -37,4 +35,7 @@ CSS                                    1.0%    1164 commits █████     
 [![Sentry](https://img.shields.io/badge/-Sentry-362d59?style=for-the-badge&logo=sentry&logoColor=ffffff)](https://sentry.io/)
 [![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=ffffff)](https://expo.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)](https://nextjs.org/)
+
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/@:laiflonglearner?name=%3Alaiflonglearner&theme=booru-vp&padding=4&offset=20&align=center&scale=1&pixelated=0&darkmode=0" width="250"></a>
+
 </div>
