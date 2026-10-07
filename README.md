@@ -1,25 +1,25 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 pushing commits deep into the quiet night
+### 🦔 quietly tinkering beneath the oak after nightfall
 
 </div>
 
 ```text
-── language stack                                       ── when i’m most active
+𖧷 language stack                                          𖧷 when i’m most active
 TypeScript       ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  58.5%         904 commits  22.9% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🥝 4am-1pm الصباح⁩
-Jupyter Notebook ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  28.8%         886 commits  22.4% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🍊 1pm-5pm النهار⁩
+Jupyter Notebook ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  28.8%         890 commits  22.5% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🍊 1pm-5pm النهار⁩
 PLpgSQL          ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%        1090 commits  27.6% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
-JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.8%        1069 commits  27.1% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩
+JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.8%        1069 commits  27.0% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩
 ```
 
 ```text
-── stuff i’ve been building                                            ── how it’s been going
+𖧷 stuff i’ve been building                                               𖧷 how it’s been going
 🌿 lifelong-habit      ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  85.3% 3370 commits        Jun ‘26 ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧ 356 commits
 🪶 laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%  222 commits        Jul ‘26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ 187 commits
-🧮 productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.8%   73 commits        Aug ‘26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ 224 commits
+🧮 productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.9%   74 commits        Aug ‘26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ 224 commits
 🌙 sleeby              ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.1%    5 commits        Sep ‘26 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 763 commits
-🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.1%  279 commits        Oct ‘26 ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧ 566 commits
+🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.1%  282 commits        Oct ‘26 ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧ 570 commits
 ```
 <!-- productive-box:end -->
 
