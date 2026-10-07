@@ -1,25 +1,25 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 cozily compiling beneath a quiet moon
+### 🦔 merging changes beneath a sky full of stars
 
 </div>
 
 ```text
-──𖧷 language stack                                        ──𖧷 peak hours this year
+𖧷──〢language stack                                        𖧷──〢peak hours this year
 TypeScript       ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  58.5%         904 commits  22.8% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🥝 4am-1pm الصباح⁩
-Jupyter Notebook ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  28.8%         898 commits  22.7% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🍊 1pm-5pm النهار⁩
-PLpgSQL          ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%        1090 commits  27.5% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
+Jupyter Notebook ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  28.8%         901 commits  22.7% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🍊 1pm-5pm النهار⁩
+PLpgSQL          ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%        1091 commits  27.5% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
 JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.8%        1069 commits  27.0% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩
 ```
 
 ```text
-──𖧷 stuff i’ve been building                                             ──𖧷 how it’s been going
-🌿 lifelong-habit      ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  85.1% 3370 commits        Jun ‘26 ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧ 356 commits
+𖧷──〢stuff i’ve been building                                             𖧷──〢how it’s been going
+🌿 lifelong-habit      ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  85.0% 3370 commits        Jun ‘26 ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧ 356 commits
 🪶 laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%  222 commits        Jul ‘26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ 187 commits
-🧮 productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.9%   76 commits        Aug ‘26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ 224 commits
+🧮 productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.9%   77 commits        Aug ‘26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ 224 commits
 🌙 sleeby              ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.1%    5 commits        Sep ‘26 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 763 commits
-🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.3%  288 commits        Oct ‘26 ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧ 578 commits
+🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.3%  291 commits        Oct ‘26 ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧ 582 commits
 ```
 <!-- productive-box:end -->
 
