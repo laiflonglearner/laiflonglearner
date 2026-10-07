@@ -1,41 +1,28 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 cooking up something new beneath the moon
+### 🦔 shipping from the burrow in the evening glow
 
 </div>
 
-<table>
-  <thead>
-    <tr><th align="left">𖧷──〢language stack</th><th align="left">𖧷──〢peak hours this year</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><pre>TypeScript       ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  58.5%
-Jupyter Notebook ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  28.8%
-PLpgSQL          ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%
-JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.8%</pre></td><td><pre>1151 commits  23.7% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🥝 4am-1pm الصباح⁩
-1158 commits  23.9% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍊 1pm-5pm النهار⁩
-1399 commits  28.9% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
-1139 commits  23.5% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩</pre></td></tr>
-  </tbody>
-</table>
+**𖧷──〢language stack**                               **𖧷──〢peak hours this year**
 
-<table>
-  <thead>
-    <tr><th align="left">𖧷──〢stuff i’ve been building</th><th align="left">𖧷──〢how it’s been going</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><pre>🌿 lifelong-habit      ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  85.7% 4153 commits
-🪶 laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.1%  294 commits
-🧮 productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.8%   85 commits
-🌙 sleeby              ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.4%   18 commits
-🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.1%  297 commits</pre></td><td><pre>Jun ‘26 ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  562 commits
-Jul ‘26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  311 commits
-Aug ‘26 ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  277 commits
-Sep ‘26 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 1225 commits
-Oct ‘26 ✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  613 commits</pre></td></tr>
-  </tbody>
-</table>
+```text
+TypeScript       ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  58.5%        1151 commits  23.7% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🥝 4am-1pm الصباح⁩
+Jupyter Notebook ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  28.8%        1158 commits  23.9% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍊 1pm-5pm النهار⁩
+PLpgSQL          ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%        1403 commits  28.9% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
+JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.8%        1139 commits  23.5% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩
+```
+
+**𖧷──〢stuff i’ve been building**                                     **𖧷──〢how it’s been going**
+
+```text
+🌿 lifelong-habit      ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  85.6% 4153 commits        Jun ‘26 ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  562 commits
+🪶 laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.1%  294 commits        Jul ‘26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  311 commits
+🧮 productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.8%   86 commits        Aug ‘26 ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  277 commits
+🌙 sleeby              ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.4%   18 commits        Sep ‘26 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 1225 commits
+🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.2%  300 commits        Oct ‘26 ✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  617 commits
+```
 <!-- productive-box:end -->
 
 <div align="center">
