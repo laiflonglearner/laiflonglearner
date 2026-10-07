@@ -1,23 +1,25 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 building something new well past midnight
+### 🦔 steadily debugging among the moonlit moss
 
 </div>
 
 ```text
-TypeScript ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧✧  83.7%        1255 commits  24.0% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🥝 4am-1pm الصباح⁩
-PLpgSQL    ✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.3%        1215 commits  23.2% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🍊 1pm-5pm النهار⁩
-JavaScript ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.7%        1543 commits  29.5% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
-CSS        ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.0%        1223 commits  23.4% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩
+language stack                                      when i'm most active
+TypeScript       ✦✦✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧  50.0%        1224 commits  24.1% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🥝 4am-1pm الصباح⁩
+Jupyter Notebook ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧  24.3%        1179 commits  23.2% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🍊 1pm-5pm النهار⁩
+JavaScript       ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧  16.8%        1495 commits  29.4% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
+PLpgSQL          ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.8%        1186 commits  23.3% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩
 ```
 
 ```text
-🌿 lifelong-habit      ✦✦✦✦✦✦✦✦✦✦✦✦✧✧✧  78.5% 4108 commits        Jun '26 ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  567 commits
-🪶 laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%  294 commits        Jul '26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  320 commits
-🧮 productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.1%   55 commits        Aug '26 ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  285 commits
-🌙 sleeby              ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.3%   18 commits        Sep '26 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 1225 commits
-🧶 other               ✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  14.5%  761 commits        Oct '26 ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  509 commits
+stuff i've been building                                          how it's been doing
+🌿 lifelong-habit      ✦✦✦✦✦✦✦✦✦✦✦✦✧✧✧  80.8% 4108 commits        Jun '26 ✦✦✦✦✦✦✦✧✧✧✧✧✧✧✧  567 commits
+🪶 laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.8%  294 commits        Jul '26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  320 commits
+🌙 sleeby              ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.4%   18 commits        Aug '26 ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  285 commits
+🧶 other               ✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  13.1%  664 commits        Sep '26 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 1225 commits
+                                                                  Oct '26 ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  455 commits
 ```
 <!-- productive-box:end -->
 
