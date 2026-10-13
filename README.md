@@ -1,7 +1,7 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 shipping while the rest of the woods sleeps
+### 🦔 cozily compiling beneath a quiet moon
 
 </div>
 
@@ -10,7 +10,7 @@
 TypeScript       ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧✧✧✧  59.0%        1248 commits  24.3% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🥝 4am-1pm الصباح⁩
 Jupyter Notebook ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  28.2%        1210 commits  23.6% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🥭 1pm-5pm النهار⁩
 PLpgSQL          ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.6%        1508 commits  29.4% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
-JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.9%        1167 commits  22.7% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩
+JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.9%        1170 commits  22.8% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩
 ```
 
 ```text
@@ -19,7 +19,7 @@ JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.9%  
 🪶 laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   5.7%  294 commits        Jul ‘26 ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧  311 commits
 🧮 productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.8%   92 commits        Aug ‘26 ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧  277 commits
 🌙 sleeby              ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.7%   38 commits        Sep ‘26 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 1225 commits
-🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.1%  365 commits        Oct ‘26 ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧  900 commits
+🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   7.2%  368 commits        Oct ‘26 ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧  903 commits
 ```
 <!-- productive-box:end -->
 
