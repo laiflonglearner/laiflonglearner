@@ -24,6 +24,8 @@ JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.4%     
 <!-- productive-box:end -->
 
 <div align="center">
+
+![Isometric contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=laiflonglearner&stats=true&credit=true&theme=crimson)
   
 [![Turborepo](https://img.shields.io/badge/-Turborepo-ef4444?style=for-the-badge&logo=turborepo&logoColor=ffffff)](https://turborepo.dev/)
 [![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=ffffff)](https://tanstack.com/query)
