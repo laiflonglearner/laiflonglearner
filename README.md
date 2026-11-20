@@ -1,25 +1,25 @@
 <!-- productive-box:start -->
 <div align="center">
 
-### 🦔 scripting away among the evening brambles
+### 🐿️ stacking commits like acorns beneath the morning sun
 
 </div>
 
 ```text
 𖧷──〢𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝘀𝘁𝗮𝗰𝗸                                       𖧷──〢𝗽𝗲𝗮𝗸 𝗵𝗼𝘂𝗿𝘀 𝘁𝗵𝗶𝘀 𝘆𝗲𝗮𝗿
-TypeScript       ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧✧✧  64.3%        1857 commits  26.5% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🥝 4am-1pm الصباح⁩
-Jupyter Notebook ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  22.7%        1642 commits  23.5% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🥭 1pm-5pm النهار⁩
-PLpgSQL          ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.7%        1979 commits  28.3% ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
+TypeScript       ✦✦✦✦✦✦✦✦✦✦✦✧✧✧✧✧✧  64.4%        1878 commits  26.7% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🥝 4am-1pm الصباح⁩
+Jupyter Notebook ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  22.6%        1651 commits  23.5% ✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🥭 1pm-5pm النهار⁩
+PLpgSQL          ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.8%        1979 commits  28.2% ✦✦✦✦✦✧✧✧✧✧✧✧✧✧✧✧ ⁦🍓 5pm-9pm المساء⁩
 JavaScript       ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.3%        1522 commits  21.7% ✦✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧ ⁦🫐 9pm-4am الليل⁩
 ```
 
 ```text
 𖧷──〢𝘀𝘁𝘂𝗳𝗳 𝗶’𝘃𝗲 𝗯𝗲𝗲𝗻 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴                                              𖧷──〢𝗵𝗼𝘄 𝗶𝘁’𝘀 𝗯𝗲𝗲𝗻 𝗴𝗼𝗶𝗻𝗴
-🌿 lifelong-habit      ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  87.3% 6114 commits        Jul ‘26 ✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  311 commits
+🌿 lifelong-habit      ✦✦✦✦✦✦✦✦✦✦✦✦✦✧✧  87.4% 6143 commits        Jul ‘26 ✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  311 commits
 🪶 laiflonglearner.com ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   4.2%  294 commits        Aug ‘26 ✦✦✧✧✧✧✧✧✧✧✧✧✧✧✧  277 commits
 🧮 productive-box      ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   1.4%   95 commits        Sep ‘26 ✦✦✦✦✦✦✦✦✦✧✧✧✧✧✧ 1225 commits
 🌙 sleeby              ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧   0.5%   38 commits        Oct ‘26 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦ 1964 commits
-🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.6%  459 commits        Nov ‘26 ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  808 commits
+🧶 other               ✦✧✧✧✧✧✧✧✧✧✧✧✧✧✧   6.5%  460 commits        Nov ‘26 ✦✦✦✦✦✦✧✧✧✧✧✧✧✧✧  838 commits
 ```
 <!-- productive-box:end -->
 
